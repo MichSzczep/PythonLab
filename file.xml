@@ -1,0 +1,23 @@
+<collection shelf = "Players">
+<player name = "Kylian Mbappe">
+   <type>Winger</type>
+   <year>1998</year>
+   <rating>90</rating>
+   <stars>5</stars>
+   <description>Fast, skilled, on his way to be top of the top</description>
+</player>
+<player name = "Robert Lewandowski">
+   <type>Striker</type>
+   <year>1988</year>
+   <rating>90</rating>
+   <stars>4</stars>
+   <description>Hardworking, strong striker with superb finishing</description>
+</player>
+<player name = "Gianluigi Buffon">
+   <type>Keeper</type>
+   <year>1978</year>
+   <rating>80</rating>
+   <stars>3</stars>
+   <description>Solid, but kind of old keeper, living legend</description>
+</player>
+</collection>

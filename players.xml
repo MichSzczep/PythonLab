@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><collection shelf="Players">
+<player name="Kylian Mbappe">
+   <type>Winger</type>
+   <year>1998</year>
+   <rating>90</rating>
+   <stars>5</stars>
+   <description>Exceptional Player he is!</description>
+</player>
+<player name="Robert Lewandowski">
+   <type>Striker</type>
+   <year>1988</year>
+   <rating>90</rating>
+   <stars>4</stars>
+   <description>Exceptional Player he is!</description>
+</player>
+<player name="Gianluigi Buffon">
+   <type>Keeper</type>
+   <year>1978</year>
+   <rating>80</rating>
+   <stars>3</stars>
+   <description>Exceptional Player he is!</description>
+</player>
+</collection>
